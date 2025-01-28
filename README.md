@@ -8,12 +8,23 @@ As a dynamic individual, I thrive on challenges and am always eager to learn mor
 
 ## 🎓 Education
 #### Master of Business Analytics (Feb 2023 - Nov 2024)
-Victoria University, Melbourne | WAM: 76.54
+Victoria University, Melbourne | WAM: 78.5
 
 #### BA Economics Honors (Aug 2019- May 2022)
 Delhi Technological University, New Delhi, India | CGPA: 8.64
 
 ## 💼 Work Experience
+### Data Analyst Intern – XIA Infinite Solutions Pty. Ltd., Melbourne (January ’25 – Current)
+•	Collaborating with cross-functional teams to develop a tamper-proof supply chain system using blockchain technology for importing organic and sustainable health products and market them in Australia.
+
+•	Designed and built interactive dashboards on Power BI to pitch data-driven insights and market potential to stakeholders and investors.
+
+•	Establishing an efficient data structure and streamlining ETL processes to ensure seamless data integration and analysis across various business operations.
+
+•	Defined data collection, storage, and processing frameworks to maintain data accuracy and integrity.
+
+•	Providing actionable insights and reports to guide business strategy and decision-making in the Australian health product market.
+
 ### Business Analyst Intern | Sweet by Nature, Melbourne (August – October 2024)
 • Analyzed and standardized warehouse codes and labels across multiple business units following recent acquisitions.
 
